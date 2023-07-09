@@ -1,4 +1,4 @@
-# ql
+# QinLingNavigation
 
 ## Project setup
 ```
